@@ -1,0 +1,20 @@
+body {
+    background-color: hsl(0, 0%, 20%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.div2 {
+    margin-left: 125px;
+    margin-top: 40px;
+
+
+}
+
+.button1 {
+    width: 130px;
+    height: 37px;
+    border-radius: 5px;
+}
